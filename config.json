@@ -1,0 +1,13 @@
+{
+  "dev": {
+    "db": {
+      "host": "35.195.134.71",
+      "port": "27017",
+      "user": "root",
+      "password": "fu9hrqLkJbF8",
+      "database": "unified"
+    }
+  },
+  "tst": {},
+  "prd": {}
+}
